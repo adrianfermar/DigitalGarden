@@ -16,6 +16,14 @@ This is where I put things before deciding what they are.
 
 ## 📚 To Read
 
+&#x20;  
+
+| # | Title | Author(s) | Link |
+|---|-------|-----------|------|
+| 1 | The gm/ID Methodology, a Sizing Tool for Low-Voltage Analog CMOS Circuits | Paul Jespers | [Springer](https://link.springer.com/book/10.1007/978-0-387-47101-3) |
+| 2 | Tradeoffs and Optimization in Analog CMOS Design | David M. Binkley | [Amazon.es](https://www.amazon.es/Tradeoffs-Optimization-Analog-CMOS-Design/dp/0470031360) |
+| 3 | Charge-Based MOS Transistor Modeling: The EKV Model for Low-Power and RF IC Design | Christian C. Enz, Eric A. Vittoz | [Amazon.es](https://www.amazon.es/Charge-Based-MOS-Transistor-Mo-Low-power/dp/047085541X) |
+
 - [ ] Article about ...
 - [ ] Paper about ...
 - [ ] Website about ...
