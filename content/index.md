@@ -1,5 +1,5 @@
 ---
-title: Adrianfermar's Digital Garden
+title: AdrianFerMar's Digital Garden
 description: A place to plant and grow my ideas
 publish: true
 tags:
@@ -32,9 +32,9 @@ This garden is constantly changing.
 
 ## Inbox
 
-Things I to be processed:
+Things to be processed:
 
-[[Inbox]]
+[Inbox](./0_inbox/)
 
 ## Recently
 
